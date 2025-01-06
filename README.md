@@ -57,7 +57,7 @@ Ensure you have Python installed on your system. You also need the following Pyt
 
 ## Example
 
-![Sample Output](https://via.placeholder.com/500x300.png?text=Sample+Output)
+![Sample Output](image.png)
 
 The detected color will be displayed as:
 
