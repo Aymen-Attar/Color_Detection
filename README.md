@@ -62,7 +62,7 @@ Ensure you have Python installed on your system. You also need the following Pyt
 The detected color will be displayed as:
 
 ```
-Detected Color: Red (R: 255, G: 0, B: 0)
+Detected Color: Red (R: 218, G: 34, B: 44)
 ```
 
 ## Contributing
